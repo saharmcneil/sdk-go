@@ -22,7 +22,7 @@ _Note:_ Supported
 
 _Note:_ Supported go version: 1.18+
 
-## Get started
+## Getting started
 
 Add the module as dependency using go mod:
 
